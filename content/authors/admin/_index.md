@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  黄 羽霖
+title: 黄  羽霖
 
 # Name pronunciation (optional)
 name_pronunciation: Huang Yulin
@@ -47,7 +47,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4476-3969
 
 interests:
   - Artificial Intelligence

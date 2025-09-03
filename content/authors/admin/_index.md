@@ -10,11 +10,11 @@ first_name: Yulin
 last_name: Huang
 
 # Pronouns (optional)
-pronouns: He/his
+pronouns: Mr.
 
 # Status emoji
 status:
-  icon: 🏎️
+  icon: ☁️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd(Medicine) 
+role: Dream Chasing
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -53,6 +53,7 @@ interests:
   - Artificial Intelligence
   - Neuroscience
   - Anime Movie
+  - Learning Different things
 
 education:
   - area: PhD Medical Sciences
@@ -61,54 +62,45 @@ education:
     date_end: 2028-09-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+ #   button:
+ #     text: 'Read Thesis'
+ #     url: 'https://example.com'
   - area: MEng Earth System Science and Technology
     institution: Kyushu University
     date_start: 2018-04-01
     date_end: 2020-03-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
   - area: BSc Navigation Technology
     institution: Dalian Maritime University
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
-      GPA: 3.4/4.0
+ #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #     Courses included:
+ #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+    company_name: Jihua laboratory
+    company_url: 'http://jihualab.ac.cn/english/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-07-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - As Engineer at Intelligent Tradition Chinese Medicine Group in Jihua Laboratory, in charge of Pulse Diagnosis Localization Algorithm Research and Blood Oxygen Detection Algorithm Development for Home Safety Disabled Elderly's development.
   - position: Backend Software Engineer
-    company_name: X
+    company_name: Guangdong Jihua New Display Equipment Co.Ltd.
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - As a project management specialist, be responsible for liaising with domestic new display equipment companies and engaging in project management work.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -131,14 +123,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Driving
         description: ''
         percent: 100
-        icon: cat
+        icon: car
       - name: Photography
         description: ''
         percent: 80
@@ -146,11 +138,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Japanese
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -186,4 +178,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Huang Yulin is a doctoral student at Northeastern University. His research interests include using machine learning and various time-series signal analysis methods to develop technologies that extract information indicating mental states from electroencephalograms (EEGs) and autonomic nervous system signals such as heart rate and respiration.

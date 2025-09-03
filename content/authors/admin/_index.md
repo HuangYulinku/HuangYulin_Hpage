@@ -14,7 +14,7 @@ pronouns: Mr.
 
 # Status emoji
 status:
-  icon: ☁️
+  icon: cloud
 
 # Is this the primary user of the site?
 superuser: true

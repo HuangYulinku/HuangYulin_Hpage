@@ -27,16 +27,16 @@ role: Phd(Medicine)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tohoku 
+  - name: 東北大学医学系研究科 神経薬理学分野
     url: https://www.pharm.tohoku.ac.jp/~yakuri/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:huangyulin.dmu@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+　- icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
@@ -51,8 +51,9 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroscience
+  - Anime Movie
+  - Car Traveling
 
 education:
   - area: PhD Artificial Intelligence

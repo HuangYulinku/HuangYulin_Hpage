@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 黄 羽霖
+title:  黄 羽霖
 
 # Name pronunciation (optional)
 name_pronunciation: Huang Yulin
@@ -10,11 +10,11 @@ first_name: Yulin
 last_name: Huang
 
 # Pronouns (optional)
-pronouns: He/his/他
+pronouns: He/his
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏎️
 
 # Is this the primary user of the site?
 superuser: true

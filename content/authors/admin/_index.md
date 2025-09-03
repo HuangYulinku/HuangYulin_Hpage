@@ -27,7 +27,7 @@ role: Phd(Medicine)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 東北大学医学系研究科 神経薬理学分野
+  - name: Neuropharmacology,Tohoku University 
     url: https://www.pharm.tohoku.ac.jp/~yakuri/index.html
 
 # Social network links
@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:huangyulin.dmu@gmail.com'
     label: E-mail Me
-　- icon: brands/x
+  - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
@@ -53,22 +53,21 @@ interests:
   - Artificial Intelligence
   - Neuroscience
   - Anime Movie
-  - Car Traveling
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Medical Sciences
+    institution: Tohoku University
+    date_start: 2025-10-01
+    date_end: 2028-09-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Earth System Science and Technology
+    institution: Kyushu University
+    date_start: 2018-04-01
+    date_end: 2020-03-31
     summary: |
       GPA: 3.8/4.0
 
@@ -76,10 +75,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Navigation Technology
+    institution: Dalian Maritime University
+    date_start: 2013-09-01
+    date_end: 2017-06-30
     summary: |
       GPA: 3.4/4.0
       
